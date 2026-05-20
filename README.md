@@ -9,7 +9,7 @@
 
 ### **Запуск**
 
-`python3 benchmarks.py`
+`python3 bench_run.py`
 
 ## **Результаты тестов**
 
