@@ -1,5 +1,0 @@
-src/matrix
-*.o
-__pycache__/
-*.pyc
-data/
